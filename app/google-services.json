@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758881949861",
+    "firebase_url": "https://shivdemo-77d6f.firebaseio.com",
+    "project_id": "shivdemo-77d6f",
+    "storage_bucket": "shivdemo-77d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758881949861:android:5eaea46abf21198a",
+        "android_client_info": {
+          "package_name": "com.ashawooden.kotlindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758881949861-vemvtdabe2iv3lhnosff181huiojesum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5fes4nK9cZQRCmjgmtCiGuPqdc_OC-as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758881949861-vemvtdabe2iv3lhnosff181huiojesum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
